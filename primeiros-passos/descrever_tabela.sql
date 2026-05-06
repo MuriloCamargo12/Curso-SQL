@@ -1,0 +1,3 @@
+USE starwars;
+
+DESC planeta
